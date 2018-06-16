@@ -1,5 +1,5 @@
 # use voicemeeter to sing karaoke on teamspeak
-first you need to install voicemeeter banana
+first you need to install voicemeeter banana. [Download from Here](https://www.vb-audio.com/Voicemeeter/banana.htm)
 
 1. in voicmeeter you first need to select you input device where "mic here" is pointing and the output 
 2. (headphones) where "phones here" is pointing
@@ -14,5 +14,3 @@ after that, every sound YOU can hear, EXCEPT what people in teamspeak say, will 
 basically peopel will be able to hear everything you hear with your voice
 
 beacause teamspeak uses the voicemeeter input **without** AUX you can select that in any other applications that you dont want to transmit
-
-
