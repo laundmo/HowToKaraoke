@@ -1,3 +1,4 @@
+if there are any suggestions/ideas/issues please please please open a Issue
 # use voicemeeter to sing karaoke on teamspeak
 first you need to install voicemeeter banana. [Download from Here](https://www.vb-audio.com/Voicemeeter/banana.htm)
 
