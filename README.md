@@ -16,7 +16,7 @@ basically people will be able to hear everything you hear with your voice
 
 TEST: use teamspeaks test microphone checkbox to hear everything you are "saying" which should be all mic audio + what yo ucan hea (music/videos/games..)
 errors: 
-1. there is a constant loop: voicemeeter gets teamspeak audio in a channel that is connected to "voicemeeter AUX output"
+1. there is a constant loop: voicemeeter gets teamspeak audio in a input that is connected to "voicemeeter AUX output"
 2. you cant hear the music/video... : voicemeeter doesnt transmit the audio it picks up from your pc, make sure the windows default audio device is set to "voicemeeter input"
 
 beacause teamspeak uses the voicemeeter input **without** AUX you can select that in any other applications that you dont want to transmit
